@@ -1,4 +1,5 @@
-<h1 align="center">Hey 😁</h1>
+<h1 align="center">Hey <image src="steamhappy.png" width =30px></h1>
+
 <div align="center">
 
 [![Codewars](https://www.codewars.com/users/Angusrqq/badges/small)](https://www.codewars.com/users/Angusrqq)
